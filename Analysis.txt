@@ -1,0 +1,11 @@
+the Dataset only contains data from India
+
+Questions for data analysis of amazon sales report:
+B2B sales and how many items are sold in B2B.
+States that get the most shipments.
+Most commonly sold sizes.
+Rank Sales channels.
+Dates with most sales.
+How many orders were cancelled?
+Ship service level?
+
