@@ -21,7 +21,8 @@ I had to first create the database and the table, unfortunately, I didn't take s
 I also deleted the SQL file that I wrote the code for creating the table. (no idea why I did that?)
 
 Nonetheless here's the table:
-![Data_table](https://github.com/user-attachments/assets/48f7a9d0-193d-42a7-8583-d3a091f1d89a)
+![Data_table](https://github.com/user-attachments/assets/679da9f8-9dec-4c13-b7f0-a76a46257973)
+
 
 
 ## First point:
@@ -29,7 +30,8 @@ Nonetheless here's the table:
 Figuring out how many items were sold in B2B transactions. 
 the vast majority of them weren't b2b which I wasn't surprised by.
 
-![step_1](https://github.com/user-attachments/assets/deca1ef9-1647-4da5-a400-aea72054e037)
+![step_1](https://github.com/user-attachments/assets/efcfc287-f314-4bf5-a40c-f6ec6b287100)
+
 
 840 items were sold in B2B transactions.
 
@@ -40,7 +42,7 @@ the vast majority of them weren't b2b which I wasn't surprised by.
 
 What are the top 5 states in India that had the most items ordered?
 
-![step_2](https://github.com/user-attachments/assets/180a66a0-3536-430f-9395-c203fc3e3c13)
+![step_2](https://github.com/user-attachments/assets/7a404b08-72f1-4011-b9fd-c41c6bdc4171)
 
 Answer:
 MAHARASHTRA 20328 Items
@@ -53,7 +55,7 @@ UTTAR PRADESH 9499 Items
 
 Which sizes were most ordered?
 
-![step_3](https://github.com/user-attachments/assets/48d57084-a5ca-48b2-b39d-16817425eb88)
+![step_3](https://github.com/user-attachments/assets/1f60cb14-2590-4d4a-beba-a51de479f207)
 
 M: 20447
 L: 20000
@@ -72,7 +74,7 @@ XS: 9943
 Which sales channels were most used?
 I didn't expect that there were only two (Amazon and non-Amazon) but it makes sense considering non-Amazon sales channels were so few.
 
-![step_4](https://github.com/user-attachments/assets/dc783e22-56df-4490-b159-1d99e81867a6)
+![step_4](https://github.com/user-attachments/assets/4866126d-0f9d-420b-87e9-d1453583cf44)
 
 116482 items sold through it compared to 167 items for non-amazon channels!
 
@@ -81,7 +83,8 @@ I didn't expect that there were only two (Amazon and non-Amazon) but it makes se
 Which month had the most sales?
 Turns out that the data was only for March to June, so only 4 months were recorded.
 
-![step_5](https://github.com/user-attachments/assets/cabb6287-ac2d-4513-aae6-12522e6792c7)
+![step_5](https://github.com/user-attachments/assets/ce0b6a1d-b3f5-4bf6-a767-9175e0b09561)
+
 
 April had 44206 items shipped
 May had 38011
@@ -92,7 +95,7 @@ March had 156, I assume they only started recording towards the end of the month
 
 how often do orders get canceled? in other words, the status of orders in numbers.
 
-![step_6](https://github.com/user-attachments/assets/72279d67-ca8f-4897-ac3a-024d23397aef)
+![step_6](https://github.com/user-attachments/assets/b11f8092-f83f-4ff5-bb41-e2fbad1be9e7)
 
 "count","order_status"
 "77804","Shipped"
@@ -113,7 +116,7 @@ how often do orders get canceled? in other words, the status of orders in number
 
 Which category of cloths gets ordered the most?
 
-![step_7](https://github.com/user-attachments/assets/d8101881-10a1-4b03-b740-038be5a50a99)
+![step_7](https://github.com/user-attachments/assets/3b349454-ce4d-4f45-ae74-a15b958d50ea)
 
 "count","category"
 "50284","Set"
